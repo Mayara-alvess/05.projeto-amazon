@@ -104,15 +104,20 @@ Linguagem: Python
 
 <details>
   <summary><strong>Hipótese 1 | Quanto maior o desconto, melhor será a pontuação.</strong></summary>
+  
+![Regressão Linear](https://github.com/Mayara-alvess/05.projeto-amazon/blob/main/Hip%C3%B3tese1.png)
 
   Correlação: -0.14982380175314391  
   Valor p: 3.259031128486439e-08  
+  
   A correlação negativa fraca indica que produtos com maior desconto tendem a ter uma classificação um pouco baixa. O valor p indica que é estatisticamente significativa, portanto rejeitamos H0 e, embora a correlação seja fraca, há uma relação negativa entre a porcentagem de desconto e a classificação do produto.
 
 </details>
 
 <details>
   <summary><strong>Hipótese 2 | Quanto maior o número de pessoas que avaliaram o produto, melhor será a classificação.</strong></summary>
+  
+![Regressão Linear](https://github.com/Mayara-alvess/05.projeto-amazon/blob/main/Hip%C3%B3tese2.png)
 
   Correlação: 0.19325398701303323  
   Valor p: 8.28686412616828e-13
@@ -125,6 +130,8 @@ Linguagem: Python
 
 <details>
   <summary><strong>Hipótese 3 | Quanto maior o número de avaliações positivas utilizando a variável (score de sentimento), melhor será a classificação.</strong></summary>
+
+![Regressão Linear](https://github.com/Mayara-alvess/05.projeto-amazon/blob/main/Hip%C3%B3tese3.png)
 
   Correlação: 0.2471604419349042  
   Valor p: 3.2809684251036406e-20
