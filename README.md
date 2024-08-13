@@ -1,10 +1,8 @@
-# Processamento e analises:
-## Processamento e preparação da base de dados
 
 # Ficha Técnica: Projeto Análise de Dados 
-Título do Projeto: Validação de Hipóteses na  Avaliação de Produtos.
+## Título do Projeto: Validação de Hipóteses na  Avaliação de Produtos.
 
-### Objetivo :
+### Objetivo 
 
 - Esta análise busca identificar os principais fatores que impactam a classificação de produtos na Amazon, com foco na relação entre preço com desconto, número de avaliações e classificação dos produtos. O objetivo é fornecer insights para otimizar estratégias de vendas e aumentar a satisfação do cliente
   # Processamento e Análises
@@ -87,11 +85,20 @@ Título do Projeto: Validação de Hipóteses na  Avaliação de Produtos.
     
    Criação da nova varíavel “grau_satisfação” criada a partir da varíavel “NEW_RATING”
 
+## União das tabelas
+  
+As tabelas foram unificadas em uma única tabela denominada "TABELA_UNIFICADA". Após a unificação, a tabela foi carregada no Google Colab, onde foram realizadas análises de sentimento e regressão linear.
+
+
  ## Ferramentas e Tecnologias
 
-- BigQuery (linguagem SQL): para gerenciamento de dados.
-- Google Colab (Python): para realizar análises em Python.
-- Power BI: para visualização de dados.
+(linguagem SQL): para gerenciamento de dados.
+
+Google Colab
+
+PowerBI
+
+Linguagem: Python
   
  # Resultados e Conclusões
 
