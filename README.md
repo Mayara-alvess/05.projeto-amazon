@@ -4,7 +4,7 @@
 
 ### Objetivo 
 
-- Esta análise busca identificar os principais fatores que impactam a classificação de produtos na Amazon, com foco na relação entre preço com desconto, número de avaliações e classificação dos produtos. O objetivo é fornecer insights para otimizar estratégias de vendas e aumentar a satisfação do cliente
+- Esta análise busca identificar os principais fatores que impactam a classificação de produtos na Amazon, com foco na relação entre preço com desconto, número de avaliações e classificação dos produtos. O objetivo é fornecer insights para otimizar estratégias de vendas e aumentar a satisfação do cliente.
   # Processamento e Análises
  
   **Limpeza dos dados**
